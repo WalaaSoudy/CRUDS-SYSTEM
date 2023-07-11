@@ -1,2 +1,3 @@
 # CRUDS-SYSTEM
  
+This is a CRUD system that allows you to add a product, its price, taxes, and advertisements. It will calculate the total for you. You can also add the category associated with this product. Additionally, you can modify any property of the product, and you can specify the quantity you want to add for each individual product. You can also delete any product you want or delete all products. Furthermore, you can search for the desired product using its address or the category it belongs to. However, you cannot enter an empty product. It is necessary to enter the address and its corresponding category.
