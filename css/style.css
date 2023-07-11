@@ -1,0 +1,19 @@
+
+input{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 30px;
+    margin: 4px 0;
+    border-radius: 4px;
+    padding: 5px;
+    color:white;
+    
+}
+#total{
+    border-radius: 4px;
+    padding: 5px;
+}
+#total::before{
+    content: "Total:";
+}
